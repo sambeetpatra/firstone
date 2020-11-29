@@ -1,2 +1,2 @@
 # firstone
-test
+sample files for scripting
